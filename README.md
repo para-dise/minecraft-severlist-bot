@@ -20,3 +20,19 @@ Dependencies:
 - https://pypi.org/project/aiofiles/ - async file management
 - https://pypi.org/project/IPy/ - used it for IP validation
 - https://github.com/kvesteri/validators - used it for domain validation
+
+
+Features
+- No database required. Text file stores all information.
+- Automated parsing without database.
+- Server ping
+- Server playercount
+
+Checks:
+- Filters ":" in user input and replaces with UTF charcode, however it does display : back to the user.
+- Domain & IP validation
+- Duplicate name or IP check
+- Length check
+- A nice embed
+
+Note: I'm sure I have useless values somewhere, if you find any just delete them.
