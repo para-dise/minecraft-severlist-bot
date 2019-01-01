@@ -4,9 +4,9 @@ Made in Discord.py
 
 Usage:
 
-$help - list servers
-$server add [server ip/domain] [server port] [Icon URL] [name] [description]
-$server info [server name]
+- $help - list servers
+- $server add [server ip/domain] [server port] [Icon URL] [name] [description]
+- $server info [server name]
 
 TBA if I CBA:
 - Server tags
