@@ -36,3 +36,5 @@ Checks:
 - A nice embed
 
 Note: I'm sure I have useless values somewhere, if you find any just delete them.
+
+Note #2: pls die if you want to suggest fstrings
