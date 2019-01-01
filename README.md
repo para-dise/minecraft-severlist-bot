@@ -16,7 +16,7 @@ TBA if I CBA:
 
 Dependencies:
 
-https://github.com/kevinkjt2000/mcstatus - edited mcstatus
-https://pypi.org/project/aiofiles/ - async file management
-https://pypi.org/project/IPy/ - used it for IP validation
-https://github.com/kvesteri/validators - used it for domain validation
+- https://github.com/kevinkjt2000/mcstatus - edited mcstatus
+- https://pypi.org/project/aiofiles/ - async file management
+- https://pypi.org/project/IPy/ - used it for IP validation
+- https://github.com/kvesteri/validators - used it for domain validation
